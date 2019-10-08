@@ -1,0 +1,34 @@
+
+#cur_div, #cost_div, #charge_div {
+	border: 1px inset #CCC;
+	width: 230px;
+	margin-bottom: 40px;
+}
+
+
+#cur_div input, #cost_div input, #charge_div input {
+	border: 0;
+	margin-left: 5px;
+	width: 180px;
+}
+
+#hour {
+	border: 1px inset #CCC;
+	width: 230px;
+	margin-bottom: 40px;
+}
+
+#hour input {
+	border: 0;
+	margin-right: 5px;
+	width: 180px;
+}
+
+select {
+	border: none;
+	text-decoration: underline;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	width: 50px;
+	text-overflow: '';
+}
